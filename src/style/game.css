@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.game_img{
+    border-radius: 1rem;
+    object-fit: cover;
+    
+}
